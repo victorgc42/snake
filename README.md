@@ -5,7 +5,7 @@
 * [Compilation](#compilation)
 * [Video](#video)
 
-## Iintroduction
+## Introduction
 
 It's a classic arcade game called google snake unless you've been living under a rock the past 30 years you know what I'm talking about when I say google snake and unless you've lived under a boulder the last 30 years you've probably seen this game even if you don't recognize the name the principal of this game is very simple.
 
