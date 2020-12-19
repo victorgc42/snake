@@ -1,4 +1,4 @@
-# Snake using OpenCV (C++).
+# Snake using OpenCV (C++)
 
 ## INTRODUCTION 
 
