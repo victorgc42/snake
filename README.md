@@ -19,4 +19,4 @@ $ g++ main.cpp -o main `pkg-config opencv --cflags --libs`
 
 ## Video
 
-https://www.youtube.com/watch?t=54&v=7V-hyk7Gmlo&feature=youtu.be
+https://youtu.be/tf8-FQaYIxY
